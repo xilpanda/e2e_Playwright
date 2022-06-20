@@ -5,6 +5,7 @@
 - Feedback Form
 - Transfer Funds
 - Filter Transactions
+- Search
 - Payment
 - Currency Exchange
 
