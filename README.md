@@ -1,10 +1,16 @@
 # e2e_Playwright
-Bank app
+**Bank app - flow:**
+*<Login/Logout>*
+*<Feedback Form>*
+*<Transfer Funds>*
+*<Filter Transactions>*
+*<Payment>*
+*<Currency Exchange>*
 
-**text** 1. How to run test **text**
+**1. How to run test**
 
-npm run tests:e2e
+<npm run tests:e2e>
 
-**text** 2. How to run test in browser **text**
+**2. How to run test in browser**
 
-npm run tests:e2e -- --headed
+<npm run tests:e2e -- --headed>
