@@ -1,11 +1,6 @@
 # e2e_Playwright
 **Bank app - flow:**
-*<Login/Logout>*
-*<Feedback Form>*
-*<Transfer Funds>*
-*<Filter Transactions>*
-*<Payment>*
-*<Currency Exchange>*
+
 
 **1. How to run test**
 
