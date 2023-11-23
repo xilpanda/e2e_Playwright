@@ -14,7 +14,7 @@
   "author": "sandro",
   "license": "ISC",
   "dependencies": {
-    "@playwright/test": "^1.18.0",
+    "@playwright/test": "^1.39.0",
     "prettier": "^2.5.1"
   }
 }
